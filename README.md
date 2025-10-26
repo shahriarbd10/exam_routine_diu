@@ -46,7 +46,7 @@ You can easily run this project on your local computer:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/shahriarbd10/exam_routine_webapp.git
+git clone https://github.com/shahriarbd10/exam_routine_diu.git
 
 # 2️⃣ Open the folder
 cd exam_routine_webapp
@@ -135,3 +135,4 @@ SOFTWARE.
 ---
 
 © 2025 [Shahriar Hossain](https://github.com/shahriarbd10). All rights reserved.
+
