@@ -1,7 +1,7 @@
 # 🎓 Academic Result Portal
 
 **A Simple, Interactive Web App to Fetch and Display Academic Results Instantly**
-📍 **Live Demo:** *(Add your Netlify link here if deployed)*
+📍 **Live Demo:** [https://academic-result-diu.netlify.app/](https://academic-result-diu.netlify.app/)
 
 ---
 
@@ -17,7 +17,7 @@ This project was created for educational and demonstration purposes — to showc
 
 ## 🎯 Key Features
 
-* 🧶 Input **Student ID**, select **Semester**, and **Year** to fetch results
+* 🧾 Input **Student ID**, select **Semester**, and **Year** to fetch results
 * 🌗 **Dark / Light Mode** toggle for better accessibility
 * ⚡ **Instant fetch simulation** using front-end logic (no backend required)
 * 📱 Fully **responsive UI** for all screen sizes
