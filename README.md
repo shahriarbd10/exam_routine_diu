@@ -1,88 +1,90 @@
-# 🎓 Academic Result Portal
+# 🧾 Exam Routine Web App (Batch 60)
 
-**A Simple, Interactive Web App to Fetch and Display Academic Results Instantly**
-📍 **Live Demo:** https://diu-result-by-shahriar.onrender.com/
+**Interactive Final Exam Routine for DIU CSE Department**
+📍 **Live Site:** [https://l4t1diucse.netlify.app/](https://l4t1diucse.netlify.app/)
 
 ---
 
 ## 🧠 Overview
 
-**Academic Result Portal** is a minimal and responsive web application built using **HTML, CSS, and JavaScript**.
-It allows students to quickly access their **semester results** by entering their **Student ID**, selecting a **Semester**, and providing the **Year**.
-The app features a modern **dark/light mode** toggle and a clean interface that ensures accessibility and simplicity.
+This simple yet elegant web app was created to display the **Department of Computer Science and Engineering (DIU)** final exam schedule for **Batch 60**.
+It was built during the hectic exam preparation period when the routine sheet was published as a static notice — making it difficult for students to check details quickly.
 
-This project was created for educational and demonstration purposes — to showcase UI interactivity and efficient form handling using only front-end technologies.
+The app provides a **modern, responsive interface** where users can:
+
+* View the full exam routine in a clean table format.
+* Click on any date or exam row to view detailed room and column allocations.
+* Access all information in one page without needing to scroll through PDFs or notices.
 
 ---
 
 ## 🎯 Key Features
 
-* 🧾 Input **Student ID**, select **Semester**, and **Year** to fetch results
-* 🌗 **Dark / Light Mode** toggle for better accessibility
-* ⚡ **Instant fetch simulation** using front-end logic (no backend required)
-* 📱 Fully **responsive UI** for all screen sizes
-* 🎨 Modern design with gradient theme and smooth transitions
-* 🧩 Built entirely with **HTML, CSS, and JavaScript** (no framework)
+* 📅 **Displays full exam routine** for Batch 60
+* 🖱️ **Click any exam row** to view detailed room and column information
+* 💡 Clean **modal pop-up design** for viewing details
+* 🌗 Simple dark-themed, visually appealing layout
+* ⚡ Lightweight and fast — runs completely in the browser
+* 📱 Fully responsive across desktop and mobile
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Layer          | Technology                                  |
-| -------------- | ------------------------------------------- |
-| **Frontend**   | HTML5, CSS3, JavaScript                     |
-| **Styling**    | Custom CSS, Flexbox, Media Queries          |
-| **Deployment** | Netlify                                     |
-| **Features**   | Dark & Light Mode, Dynamic Input Validation |
+| Layer          | Technology                             |
+| -------------- | -------------------------------------- |
+| **Frontend**   | HTML5, CSS3, JavaScript                |
+| **Styling**    | Custom CSS, Flexbox, Responsive Layout |
+| **Deployment** | Netlify                                |
+| **Backend**    | None (Fully static project)            |
 
 ---
 
 ## 🚀 How to Run Locally
 
-You can easily run this project on your system:
+You can easily run this project on your local computer:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/shahriarbd10/academic_result_portal.git
+git clone https://github.com/shahriarbd10/exam_routine_webapp.git
 
 # 2️⃣ Open the folder
-cd academic_result_portal
+cd exam_routine_webapp
 
-# 3️⃣ Run locally
+# 3️⃣ Run the app
 # Simply open index.html in your browser
 ```
 
-🟢 No installations or build tools required — it’s a **fully static project**.
+✅ No installation or build process needed — it’s a **pure frontend web app**.
 
 ---
 
-## 🧠 How It Works
+## 🧩 How It Works
 
-1. The user enters their **Student ID**, **Semester**, and **Year**.
-2. The app validates inputs and fetches a simulated result.
-3. You can toggle between **Dark** and **Light** modes for better readability.
-4. (Optional) Results can be connected to a backend or external API in the future.
+1. The routine is displayed in a styled HTML table with date, time, course name, and course code.
+2. When you **click on any exam row or date**, a modal opens showing:
 
----
-
-## 🖥️ UI Preview
-
-The application interface includes:
-
-* Input fields for **Student ID**, **Semester**, and **Year**
-* A **Fetch Result** button
-* A **Dark/Light mode toggle** button
-* Clean and centered result display section
+   * Room numbers
+   * Column distributions
+   * Total students per room
+3. The modal can be closed with a single click, returning you to the main view.
 
 ---
 
-## 💡 Future Improvements
+## 🖥️ UI Highlights
 
-* ✅ Add real backend result API integration
-* ✅ Store previously searched results in browser local storage
-* ⏳ Implement student profile and GPA summary
-* ⏳ Export results to **PDF format**
-* ⏳ Add loading animations and success messages
+* 🏫 Department & Batch Header
+* 🧾 Interactive Routine Table
+* 🪄 Modal Pop-up with Room/Column Info
+* 🎨 Clean dark theme with yellow accent
+* 📱 Responsive view for mobile users
+
+---
+
+## 💡 Purpose
+
+This project was built to simplify access to **exam schedules** for Batch 60 students at DIU.
+Instead of checking PDF files or departmental notices, students can instantly view and understand their schedule and seat distribution on a single web page.
 
 ---
 
@@ -97,8 +99,8 @@ The application interface includes:
 
 ---
 
-⭐ **If you like this project, don’t forget to star it on [GitHub](https://github.com/shahriarbd10/academic_result_portal)!**
-Your support motivates more student-focused open projects like this.
+⭐ **If you liked this project, give it a star on [GitHub](https://github.com/shahriarbd10/exam_routine_webapp)!**
+It encourages more open, student-focused mini-projects like this.
 
 ---
 
@@ -133,5 +135,3 @@ SOFTWARE.
 ---
 
 © 2025 [Shahriar Hossain](https://github.com/shahriarbd10). All rights reserved.
-
-
