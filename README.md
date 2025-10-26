@@ -1,7 +1,7 @@
 # 🎓 Academic Result Portal
 
 **A Simple, Interactive Web App to Fetch and Display Academic Results Instantly**
-📍 **Live Demo:** [https://academic-result-diu.netlify.app/](https://academic-result-diu.netlify.app/)
+📍 **Live Demo:** [https://dashing-axolotl-621b8f.netlify.app/
 
 ---
 
@@ -133,3 +133,4 @@ SOFTWARE.
 ---
 
 © 2025 [Shahriar Hossain](https://github.com/shahriarbd10). All rights reserved.
+
